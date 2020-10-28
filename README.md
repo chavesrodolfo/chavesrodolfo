@@ -1,16 +1,13 @@
 ### Hi there 👋
 
-<!--
-**chavesrodolfo/chavesrodolfo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Rodolfo.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 &nbsp; Software Engineer <br/>
+🤓&nbsp; I’m a Bachelor in Computer Science, graduated in 2010 <br/>
+🦖&nbsp; I have more than 11 years of work experience in software development <br/>
+☕&nbsp; I have been working as a FullStack developer almost all my career <br/>
+⚡&nbsp; For backend: I use Java as first language mostly with Spring Framework and recently I'm using Node.js as a second backend language <br/>
+🌱&nbsp; For Frontend: I use HTML, CSS, Javascript, Typescript, Angular and React <br/>
+📫&nbsp; How to reach me: chavesrodolfo@gmail.com or https://dodz.dev <br/>
+🌎&nbsp; Open to work remotely <br/>
+🏡&nbsp; Brazilian, Based in Curitiba, PR <br/>
